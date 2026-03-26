@@ -1,0 +1,11 @@
+Selesikan : 1. Ganti file Logo di about , menjadi SVG dan sesuaikan ukuran nya (DONE)
+	2. Buat Hover pada Learn Me > (DONE)
+	3. Buat Hover pada footer bagian Privacy Police
+	Mobile
+	1. Sejajarkan ukuran button pada about (DONE)
+	2. rapihan Header page busnise (DONE)
+	3.Rapihan Testimoni (DONE)
+	4. Rapihkan bagian footer @media (min-width: 768px)
+	5. Perbaiki untuk semua ukuran mobile 
+	6. kompres ukuran gambar png homepage
+Siap DEPLOY
