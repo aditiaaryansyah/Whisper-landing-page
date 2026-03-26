@@ -6,4 +6,6 @@ Selesikan : 1. Ganti file Logo di about , menjadi SVG dan sesuaikan ukuran nya (
 	2. rapihan Header page busnise (DONE)
 	3.Rapihan Testimoni (DONE)
 	4. Rapihkan bagian footer @media (min-width: 768px)
+	5. Perbaiki untuk semua ukuran mobile 
+	6. kompres ukuran gambar png homepage
 Siap DEPLOY
